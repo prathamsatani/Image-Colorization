@@ -1,4 +1,5 @@
 from keras.models import load_model # type: ignore
+import keras
 import numpy as np
 import base64
 import cv2
